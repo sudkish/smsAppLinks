@@ -1,0 +1,14 @@
+{
+  "global": {
+    "parseVersion": "1.5.0"
+  },
+  "applications": {
+    "_default": {
+      "link": "smsAppLinks"
+    },
+    "smsAppLinks": {
+      "applicationId": "6z9OJQk3UUyFD88S8aVAwqz0Pq7syL6rTPb3tb8r",
+      "masterKey": "L1kWC3gaVflgbg6AEFGi9vLDeKiUDgbgEhxmdMAv"
+    }
+  }
+}
